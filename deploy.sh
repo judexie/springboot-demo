@@ -5,3 +5,4 @@ sleep 2s;
 nohup java -jar /opt/ansible/sample.jar  > /tmp/nohup.out 2>&1 &
 echo yes
 echo no
+echo yes
